@@ -1,7 +1,7 @@
 AGENTES DE IA
 
 Recurso para fazer uma tarefa especifica com a IA
-vai direcionar qual agente fará o q 
+vai direcionar o que cada  agente fará 
 
 - Google Colab -> pra programar em Python
 - langchain -> facilitar o desenvolvimento de aplicações que usam modelos de linguagem de grande porte (LLMs)
